@@ -1,5 +1,9 @@
 # The Contact List App 
 
+#### Live Hosting Link
+https://64d7cc30d2d5de269ad981b5--euphonious-phoenix-2c4afe.netlify.app/
+
+
 Contact List App enhances contact management by fetching and displaying user data from the API, allowing users to effortlessly add new contacts, update existing ones, and efficiently remove contacts. This comprehensive feature set makes it an invaluable tool for organizing and maintaining a contact list, providing a smooth and user-friendly experience.
 
 Fetch and Display User Contacts: The React.js Contact List App is a powerful tool that fetches user data from the provided API (https://jsonplaceholder.typicode.com/users) and displays it in an organized and user-friendly manner. The app utilizes the API to retrieve contact information, including names, emails, and phone numbers, and dynamically renders it on the interface. Users can effortlessly browse through the list of contacts, making it convenient to access essential information.
