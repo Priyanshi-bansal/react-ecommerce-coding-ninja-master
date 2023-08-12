@@ -17,7 +17,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-right">
-                <span>Hii, John Doe</span>
+                <span>Hii, Priyanshi Bansal</span>
                 <img src="https://picsum.photos/200" alt="Profile" />
             </div>
         </nav>
