@@ -1,4 +1,4 @@
-# The Contact List App 
+# The react-ecommerce-coding-ninja-master
 
 #### Live Hosting Link
 https://64d7cc30d2d5de269ad981b5--euphonious-phoenix-2c4afe.netlify.app/
